@@ -48,9 +48,14 @@ the resource project is based in two main type of timelines one type to track ev
   #### custom cycles
     ...
 
-## Integrations
+## integrations
   ...
-## Architecture and Researches
+## architecture, researches and brain storm.
 
 For now the first thoughts is in **back-end** work with **python** make a api based on **flask**, use a databse based on no-sql or maybe graph; In **front-end** a Progressive Web Application writed with **react** and **redux**.
- 
+
+### thoughts
+-use simple db schema with a possible local storage possobility in client side
+-use one root ordinary timeline 
+-use a high enty abstraction for transactions of money and events maybe acts
+-use time stamp as a value with error in time as 13:00 +/- 0 === is_now || 10m || 30m || 1h || 2h || 8h || 1d || 2d || 4d || 1w || 2w || 1M
