@@ -50,3 +50,7 @@ the resource project is based in two main type of timelines one type to track ev
 
 ## Integrations
   ...
+## Architecture and Researches
+
+For now the first thoughts is in **back-end** work with **python** make a api based on **flask**, use a databse based on no-sql or maybe graph; In **front-end** a Progressive Web Application writed with **react** and **redux**.
+ 
