@@ -37,11 +37,11 @@ the resource project is based in two main type of timelines one type to track ev
 
   ### currencies
     ...
-    #### chests
+   #### chests
     ...
   ### transactions
     ...
-    #### reliability
+   #### reliability
 
   ### main cycle
     ...
